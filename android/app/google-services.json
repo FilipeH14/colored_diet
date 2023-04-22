@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "432488489292",
+    "project_id": "colored-diet",
+    "storage_bucket": "colored-diet.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:432488489292:android:1ac991c385e10dc6e2efe9",
+        "android_client_info": {
+          "package_name": "com.example.colored_diet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "432488489292-gq06d76dk09p7coh7k800vdhiist53ah.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmFc0Kbw67NWj81a3gGysnBGhifIgjTrE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "432488489292-gq06d76dk09p7coh7k800vdhiist53ah.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
